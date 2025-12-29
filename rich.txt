@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+i am not broke in this file too lmao >\. _ ./<
+=======
+i am not broke lmao
+>>>>>>> main
